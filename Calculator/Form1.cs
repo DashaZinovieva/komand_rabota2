@@ -78,8 +78,17 @@ namespace Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-          
+            if (znak == true)
+            {
+                textBox1.Text = "-" + textBox1.Text;
+                znak = false;
             }
+            else if (znak == false)
+            {
+                textBox1.Text = textBox1.Text.Replace("-", "");
+                znak = true;
+            }
+        }
 
         private void calculate()
         {
@@ -160,7 +169,11 @@ namespace Calculator
 
         private void button20_Click(object sender, EventArgs e)
         {
-
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            count = 3;
+            label1.Text = a.ToString() + "%";
+            znak = true;
         }
 
         private void button21_Click(object sender, EventArgs e)

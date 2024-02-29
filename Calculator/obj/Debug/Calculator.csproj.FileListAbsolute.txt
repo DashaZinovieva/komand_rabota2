@@ -47,3 +47,14 @@ C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cac
 C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.exe
 C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.pdb
+D:\12\komand_rabota2\Calculator\bin\Debug\Calculator.exe.config
+D:\12\komand_rabota2\Calculator\bin\Debug\Calculator.exe
+D:\12\komand_rabota2\Calculator\bin\Debug\Calculator.pdb
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.Form1.resources
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.exe
+D:\12\komand_rabota2\Calculator\obj\Debug\Calculator.pdb

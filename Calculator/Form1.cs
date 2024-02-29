@@ -28,7 +28,7 @@ namespace Calculator
 
         private void button18_Click(object sender, EventArgs e)
         {
-          
+            textBox1.Text = textBox1.Text + ",";
         }
 
         private void button13_Click(object sender, EventArgs e)
@@ -78,35 +78,72 @@ namespace Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
-            
-        }
+          
+            }
 
         private void calculate()
         {
+            switch (count)
+            {
+                case 1:
+                    b = a + float.Parse(textBox1.Text);
+                    textBox1.Text = b.ToString();
+                    break;
+                case 2:
+                    b = a - float.Parse(textBox1.Text);
+                    textBox1.Text = b.ToString();
+                    break;
+                case 3:
+                    b = a * float.Parse(textBox1.Text);
+                    textBox1.Text = b.ToString();
+                    break;
+                case 4:
+                    b = a / float.Parse(textBox1.Text);
+                    textBox1.Text = b.ToString();
+                    break;
+
+                default:
+                    break;
+            }
 
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-           
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            count = 1;
+            label1.Text = a.ToString() + "+";
+            znak = true;
 
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-           
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            count = 2;
+            label1.Text = a.ToString() + "-";
+            znak = true;
         }
 
         private void button12_Click(object sender, EventArgs e)
         {
-            
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            count = 3;
+            label1.Text = a.ToString() + "*";
+            znak = true;
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-           
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            count = 4;
+            label1.Text = a.ToString() + "/";
+            znak = true;
         }
 
         private void button19_Click(object sender, EventArgs e)

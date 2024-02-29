@@ -17,3 +17,13 @@ C:\Users\User\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.Generate
 C:\Users\User\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\User\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\papka0701\komand_rabota2\Calculator\bin\Debug\Calculator.exe.config
+D:\papka0701\komand_rabota2\Calculator\bin\Debug\Calculator.exe
+D:\papka0701\komand_rabota2\Calculator\bin\Debug\Calculator.pdb
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.Form1.resources
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.exe
+D:\papka0701\komand_rabota2\Calculator\obj\Debug\Calculator.pdb

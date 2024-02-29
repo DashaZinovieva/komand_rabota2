@@ -128,17 +128,21 @@ namespace Calculator
 
         private void button21_Click(object sender, EventArgs e)
         {
-
+            textBox1.Focus();
+            textBox1.Text = Math.Sqrt(double.Parse(textBox1.Text)).ToString();
         }
 
         private void button22_Click(object sender, EventArgs e)
         {
-
+             a = (float)Convert.ToDouble(textBox1.Text);
+            textBox1.Text = "0";
+            
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
-
+           
+                textBox1.Text = Math.Pow(Double.Parse(textBox1.Text), Double.Parse(textBox1.Text)).ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)

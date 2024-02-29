@@ -37,3 +37,13 @@ D:\MDK07.01Evstifeev\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.Gener
 D:\MDK07.01Evstifeev\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\MDK07.01Evstifeev\komand_rabota2\Calculator\obj\Debug\Calculator.exe
 D:\MDK07.01Evstifeev\komand_rabota2\Calculator\obj\Debug\Calculator.pdb
+C:\12\komand_rabota2\Calculator\bin\Debug\Calculator.exe.config
+C:\12\komand_rabota2\Calculator\bin\Debug\Calculator.exe
+C:\12\komand_rabota2\Calculator\bin\Debug\Calculator.pdb
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.Form1.resources
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.exe
+C:\12\komand_rabota2\Calculator\obj\Debug\Calculator.pdb
